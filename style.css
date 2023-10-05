@@ -1,0 +1,89 @@
+h1 {
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica, Helvetica Neue, Arial, Lucida Grande, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid rgb(221, 189, 10);
+  border-radius: 4px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  padding: 30px 20px;
+  border-radius: 20px;
+}
+h3 {
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  padding: 20px 0px 10px 0px;
+}
+
+p {
+  font-family: Helvetica, Helvetica Neue, Arial, Lucida Grande, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 2;
+}
+ul {
+  font-family: Helvetica, Helvetica Neue, Arial, Lucida Grande, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  line-height: 2;
+  padding: 0;
+  list-style-type: none;
+}
+li {
+  padding: 20px;
+  transition: all 200ms ease-in-out;
+}
+button {
+  display: block;
+  margin: 40px auto;
+  background-color: rgb(221, 189, 10);
+  color: aliceblue;
+  font-size: 30px;
+  padding: 30px 40px;
+  border: darkorchid;
+  border-radius: 10px;
+  box-shadow: 0 8px 8px 0 rgba(37, 39, 89, 0.3);
+  transition: all 200ms ease-in-out;
+}
+button:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+  color: rgb(221, 189, 10);
+}
+
+.founder {
+  text-decoration: none;
+  color: aliceblue;
+}
+.ASOS {
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover {
+  color: fuchsia;
+}
+.footer {
+  font-family: Helvetica, Helvetica Neue, Arial, Lucida Grande, sans-serif;
+  font-weight: lighter;
+  font-size: 12px;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  max-width: 100%;
+}
+footer {
+  text-align: center;
+  display: block;
+}
