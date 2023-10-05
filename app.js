@@ -14,5 +14,5 @@ function shopASOS() {
   }
 }
 
-let shopButton = document.querySelector("btn btn-warning");
+let shopButton = document.querySelector("button");
 shopButton.addEventListener("click", shopASOS);
