@@ -45,11 +45,11 @@ li {
   padding: 20px;
   transition: all 200ms ease-in-out;
 }
-.the-button {
+button {
   display: block;
   margin: 40px auto;
 }
-.the-button:hover {
+button:hover {
   cursor: pointer;
   background-color: aliceblue;
   color: rgb(221, 189, 10);
